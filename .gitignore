@@ -1,0 +1,6 @@
+# ignore IDE specific files
+.idea
+*.iws
+*.iml
+*.ipr
+out/
